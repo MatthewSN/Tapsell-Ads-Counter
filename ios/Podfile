@@ -44,4 +44,6 @@ target 'ADs' do
   use_unimodules!
   pod 'RNGestureHandler', :path => '../node_modules/react-native-gesture-handler'
 
+  pod 'react-native-safe-area-context', :path => '../node_modules/react-native-safe-area-context'
+
 end

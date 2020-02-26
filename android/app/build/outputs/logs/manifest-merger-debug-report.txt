@@ -4,6 +4,7 @@ ADDED from /home/matthew/Documents/reactNative/ADs/android/app/src/main/AndroidM
 INJECTED from /home/matthew/Documents/reactNative/ADs/android/app/src/main/AndroidManifest.xml:1:1-48:12
 INJECTED from /home/matthew/Documents/reactNative/ADs/android/app/src/main/AndroidManifest.xml:1:1-48:12
 INJECTED from /home/matthew/Documents/reactNative/ADs/android/app/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [:react-native-safe-area-context] /home/matthew/Documents/reactNative/ADs/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-tapsell-plus] /home/matthew/Documents/reactNative/ADs/node_modules/react-native-tapsell-plus/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-gesture-handler] /home/matthew/Documents/reactNative/ADs/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-screens] /home/matthew/Documents/reactNative/ADs/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
@@ -280,6 +281,8 @@ uses-sdk
 INJECTED from /home/matthew/Documents/reactNative/ADs/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/matthew/Documents/reactNative/ADs/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/matthew/Documents/reactNative/ADs/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-safe-area-context] /home/matthew/Documents/reactNative/ADs/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/matthew/Documents/reactNative/ADs/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-tapsell-plus] /home/matthew/Documents/reactNative/ADs/node_modules/react-native-tapsell-plus/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-tapsell-plus] /home/matthew/Documents/reactNative/ADs/node_modules/react-native-tapsell-plus/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /home/matthew/Documents/reactNative/ADs/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
