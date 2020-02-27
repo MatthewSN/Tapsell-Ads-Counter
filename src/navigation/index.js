@@ -6,7 +6,8 @@ const StackNavigator = createStackNavigator({
   Main: Screens.MainScreen,
   Rewareded: Screens.RewardedScreen,
   Intersitial: Screens.InterstitialScreen,
-  Native: Screens.NativeScreen
+  Native: Screens.NativeScreen,
+  Status: Screens.AdsStatus
 });
 
 export default createAppContainer(StackNavigator);

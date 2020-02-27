@@ -9,7 +9,7 @@ InterstitialScreen = () => {
   const { btnContainer } = styles;
   return (
     <View>
-      <AdCart type={AdsTyps.INTERSITIAL} zoneId={Keys.INTERSITIAL_KEY} />
+      <AdCart type={AdsTyps.INTERSTITIAL} zoneId={Keys.INTERSITIAL_KEY} />
     </View>
   );
 };

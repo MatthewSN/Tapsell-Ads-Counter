@@ -13,6 +13,9 @@ MainScreen = ({ navigation }) => {
   const onNativePress = () => {
     navigation.navigate("Native");
   };
+  const onAdsStatusPress = () => {
+    navigation.navigate("Status");
+  };
   return (
     <View>
       <View>
@@ -21,10 +24,13 @@ MainScreen = ({ navigation }) => {
             <Button onPress={onRewardPress} title="Rewarded" />
           </View>
           <View style={btnContainer}>
-            <Button onPress={onIntersitialPress} title="Interstial" />
+            <Button onPress={onIntersitialPress} title="Interstitial" />
           </View>
           <View style={btnContainer}>
             <Button onPress={onNativePress} title="Native" />
+          </View>
+          <View style={btnContainer}>
+            <Button onPress={onAdsStatusPress} title="Ads Status" />
           </View>
         </Card>
       </View>
